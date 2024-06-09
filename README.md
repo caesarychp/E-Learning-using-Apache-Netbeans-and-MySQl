@@ -48,7 +48,7 @@ With the increasing demand for online education, there is a need for a reliable 
 - **Generate Reports**: Create detailed reports on course participation, student performance, and overall platform usage.
 - **Data Analytics**: Analyze data to gain insights into student performance and course effectiveness.
 
-## Technologies Used
+## Technologies Stack
 
 - **Frontend**: XML
 - **Backend**: Java (using Apache NetBeans)
